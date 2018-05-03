@@ -6,12 +6,12 @@ Presentations:
 
 <a href="https://github.com/sysbio-curie/Reproducible-research-working-group/blob/master/files/Zinovyev300418_ReproducibleResearch.pptx">A. Zinovyev. Towards reproducible research in SysBio group’s projects: specifying the challenge, assessing the tools, outlining solutions. </a>
 
-[Sharing files and data / L Albergante](../files/Albergante_RR_3_05_2018.pptx)
+[Sharing files and data / L Albergante](../master/files/Albergante_RR_3_05_2018.pptx)
 
 
 Userful links:
 
-⋅⋅* [Single Cell Portal](https://portals.broadinstitute.org/single_cell)
-⋅⋅* [Single Cell Portal (Code)](https://github.com/broadinstitute/single_cell_portal_core)
+* [Single Cell Portal](https://portals.broadinstitute.org/single_cell)
+* [Single Cell Portal (Code)](https://github.com/broadinstitute/single_cell_portal_core)
 
 
