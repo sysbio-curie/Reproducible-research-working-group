@@ -4,4 +4,4 @@
 
 Presentation:
 
-<a href="https://github.com/sysbio-curie/Reproducible-research-working-group/blob/master/files/Zinovyev300418_ReproducibleResearch.pptx">A. Zinovyev. Towards reproducible research in SysBio group’s projects:specifying the challenge,assessing the tools, outlining solutions. </a>
+<a href="https://github.com/sysbio-curie/Reproducible-research-working-group/blob/master/files/Zinovyev300418_ReproducibleResearch.pptx">A. Zinovyev. Towards reproducible research in SysBio group’s projects: specifying the challenge, assessing the tools, outlining solutions. </a>
