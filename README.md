@@ -13,4 +13,4 @@ Userful links:
 * [Single Cell Portal](https://portals.broadinstitute.org/single_cell)
 * [Single Cell Portal (Code)](https://github.com/broadinstitute/single_cell_portal_core)
 
-[Docker use on scientific publications](../master/files/Arnau Pipeline summarizing slides.pptx)
+[Docker use on scientific publications](../master/files/`Arnau Pipeline summarizing slides.pptx`)
