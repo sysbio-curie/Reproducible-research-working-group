@@ -8,8 +8,10 @@ Presentations:
 
 * [Sharing files and data / L Albergante](../master/files/Albergante_RR_3_05_2018.pptx)
 
+* [A Montagud. Docker use on scientific publications](../master/files/Arnau_Docker.pptx)
+
 Useful links:
 * [Single Cell Portal](https://portals.broadinstitute.org/single_cell)
 * [Single Cell Portal (Code)](https://github.com/broadinstitute/single_cell_portal_core)
 
-* [A Montagud. Docker use on scientific publications](../master/files/Arnau_Docker.pptx)
+
